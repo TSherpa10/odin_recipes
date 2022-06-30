@@ -1,2 +1,3 @@
 # odin_recipes
-html website odin
+
+I've learned git commands and basic HTML.
